@@ -1,20 +1,5 @@
 # Ready Trader Go
 
-## IT'S READY TRADER GO TIME
-
-Welcome to the ultimate team student trading competition. Competitors get to
-learn all the fundamentals of trading and truly test their coding and analytical
-skills. The aim is to build and optimise a trading algorithm that outperforms
-all others on a virtual exchange.
-
-To learn more about the competition, visit [readytradergo.optiver.com]
-(https://readytradergo.optiver.com).
-
-## Getting started
-
-To run Ready Trader Go, you'll need Python version 3.11 or above and PySide6.
-You can download Python from [www.python.org](https://www.python.org).
-
 Once you have installed Python, you'll need to create a Python virtual
 environment, and you can find instructions for creating and using virtual
 environments at
